@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2023/11/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/11/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><h2 id="1-Java基础"><a href="#1-Java基础" class="headerlink" title="1. Java基础"></a>1. Java基础</h2><p>Java是一门后端语言，我爱Java。</p><h2 id="2-Java实战"><a href="#2-Java实战" class="headerlink" title="2. Java实战"></a>2. Java实战</h2><p>第一行代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs java">System.out.println(<span class="hljs-string">&quot;Hello World!&quot;</span>);<br><br></code></pre></td></tr></table></figure><p>测试一下图片上传</p><p><img src="https://frost-blog-image.oss-cn-shanghai.aliyuncs.com/img/image-20231126144112127.png" alt="image-20231126144112127"></p><p>真的是比较好使的呢。哈哈。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java基础</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>学习感悟</tag>
+      
+      <tag>知识分享</tag>
+      
+      <tag>Java</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>fission-init</title>
     <link href="/2023/11/25/fission-init/"/>
     <url>/2023/11/25/fission-init/</url>
