@@ -4,6 +4,35 @@
   
   
   <entry>
+    <title>搭建博客记录</title>
+    <link href="/2024/01/28/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/"/>
+    <url>/2024/01/28/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="搭建博客记录"><a href="#搭建博客记录" class="headerlink" title="搭建博客记录"></a>搭建博客记录</h1><h2 id="1-参考网站"><a href="#1-参考网站" class="headerlink" title="1. 参考网站"></a>1. 参考网站</h2><p><a href="https://xmmblog.com/install-wordpress-on-siteground/">SiteGround主机教程：零基础搭建WordPress网站</a></p><p>这个教程很好，但是WordPress对于写技术博客太重度了，我就想非常简单的一个人网站，可以写写自己的感悟，参考这个文档已经搭建成功，后来还是放弃了。</p><p>SiteGround主机 已经购买了，但还是废弃不用了。</p><p><a href="https://blog.csdn.net/yushuaigee/article/details/111465155">从零开始免费搭建自己的博客</a></p><p>这个教程对我的帮助很大，基本上是通过这个教程来进行搭建的。</p><h2 id="2-域名申请"><a href="#2-域名申请" class="headerlink" title="2. 域名申请"></a>2. 域名申请</h2><p>域名肯定是要的，我自己申请了一个，有效期是10年，购买步骤可以参考这个里面的 <a href="https://xmmblog.com/install-wordpress-on-siteground/">SiteGround主机教程：零基础搭建WordPress网站</a> 购买域名小结</p><h2 id="3-基于-GitHub-Hexo-Fluid-搭建好了博客"><a href="#3-基于-GitHub-Hexo-Fluid-搭建好了博客" class="headerlink" title="3. 基于 GitHub + Hexo + Fluid 搭建好了博客"></a>3. 基于 GitHub + Hexo + Fluid 搭建好了博客</h2><p><a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细）</a></p><p><a href="https://cuiqingcai.com/7625.html">利用 GitHub + Hexo + Next 从零搭建一个博客</a></p><p><a href="https://blog.csdn.net/m0_51321469/article/details/127173074">Hexo从0到1搭建博客系列01：浅尝Hexo</a></p><p><a href="https://codeantenna.com/a/s38U4894mT">Hexo Fluid主题配置教程，详细到每一行代码</a></p><h2 id="4-使用cdn提高Github-Pages的访问速度"><a href="#4-使用cdn提高Github-Pages的访问速度" class="headerlink" title="4. 使用cdn提高Github Pages的访问速度"></a>4. 使用cdn提高Github Pages的访问速度</h2><p><a href="https://blog.csdn.net/weixin_44786530/article/details/129872749">使用cdn提高Github Pages的访问速度</a></p><p>我使用的是 Cloudflare 加速，并且我使用的也是阿里云的域名</p><h2 id="5-图床管理"><a href="#5-图床管理" class="headerlink" title="5. 图床管理"></a>5. 图床管理</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>笔记</tag>
+      
+      <tag>博客</tag>
+      
+      <tag>成长</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/11/26/hello-world/"/>
     <url>/2023/11/26/hello-world/</url>
@@ -11,35 +40,6 @@
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>我的第一篇博客</title>
-    <link href="/2023/11/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <url>/2023/11/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    
-    <content type="html"><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><h2 id="1-Java基础"><a href="#1-Java基础" class="headerlink" title="1. Java基础"></a>1. Java基础</h2><p>Java是一门后端语言，我爱Java。</p><h2 id="2-Java实战"><a href="#2-Java实战" class="headerlink" title="2. Java实战"></a>2. Java实战</h2><p>第一行代码</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs java">System.out.println(<span class="hljs-string">&quot;Hello World!&quot;</span>);<br><br></code></pre></td></tr></table></figure><p>测试一下图片上传</p><p><img src="https://frost-blog-image.oss-cn-shanghai.aliyuncs.com/img/image-20231126144112127.png" alt="image-20231126144112127"></p><p>真的是比较好使的呢。哈哈。</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Java基础</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>学习感悟</tag>
-      
-      <tag>知识分享</tag>
-      
-      <tag>Java</tag>
-      
-    </tags>
     
   </entry>
   
