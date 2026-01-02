@@ -1,0 +1,71 @@
+/* 点赞按钮样式 */
+.post-like {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.like-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  background: #fff;
+  border: 1px solid #d1d5db;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 14px;
+  color: #6b7280;
+  user-select: none;
+}
+
+.like-btn:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+  color: #374151;
+}
+
+.like-btn.liked {
+  background: #fee2e2;
+  border-color: #fca5a5;
+  color: #dc2626;
+}
+
+.like-btn.liked:hover {
+  background: #fecaca;
+  border-color: #f87171;
+}
+
+.like-btn i {
+  margin-right: 6px;
+  font-size: 16px;
+}
+
+.like-btn span {
+  font-weight: 500;
+}
+
+/* 暗色模式支持 */
+[data-user-color-scheme="dark"] .like-btn {
+  background: #252d38;
+  border-color: #3c4858;
+  color: #c4c6c9;
+}
+
+[data-user-color-scheme="dark"] .like-btn:hover {
+  background: #2f4154;
+  border-color: #4a5568;
+  color: #d0d0d0;
+}
+
+[data-user-color-scheme="dark"] .like-btn.liked {
+  background: #7f1d1d;
+  border-color: #991b1b;
+  color: #fca5a5;
+}
+
+[data-user-color-scheme="dark"] .like-btn.liked:hover {
+  background: #991b1b;
+  border-color: #b91c1c;
+}
+

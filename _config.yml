@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 寒霜的博客
+title: frostwang
 subtitle: ''
-description: ''
+description: '个人技术博客，记录学习与成长'
 keywords:
-author: 寒霜
+author: frostwang
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wanghongrich.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,15 +43,14 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+syntax_highlighter: highlight.js
 highlight:
-  enable: true
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -99,9 +98,17 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+# Search
+search:
+  path: local-search.xml
+  field: post
+  content: true
+  format: html
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:FrostWh/FrostWh.github.io.git
+  repo: https://github.com/FrostWh/FrostWh.github.io.git
   branch: main
+  message: 'update: add new post'

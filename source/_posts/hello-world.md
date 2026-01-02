@@ -1,38 +1,38 @@
 ---
-title: Hello World
+title: 欢迎使用 Hexo
+date: 2024-01-01 12:00:00
+categories:
+  - 知识记录
+tags:
+  - Hexo
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+欢迎使用 Hexo！这是你的第一篇文章。如果你在使用过程中遇到任何问题，可以查看 [文档](https://hexo.io/docs/) 或在 [GitHub](https://github.com/hexojs/hexo/issues) 上提问。
 
-### Create a new post
+## 快速开始
 
-``` bash
-$ hexo new "My New Post"
+### 创建新文章
+
+```bash
+$ hexo new "我的新文章"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 启动服务器
 
-### Run server
-
-``` bash
+```bash
 $ hexo server
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+### 生成静态文件
 
-### Generate static files
-
-``` bash
+```bash
 $ hexo generate
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+### 部署到远程站点
 
-### Deploy to remote sites
-
-``` bash
+```bash
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+更多信息请查看 [部署文档](https://hexo.io/docs/one-command-deployment.html)。

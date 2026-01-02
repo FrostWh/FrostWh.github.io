@@ -1,8 +1,25 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
+# Dependencies
 node_modules/
+
+# Generated files
 public/
 .deploy*/
-_multiconfig.yml
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
