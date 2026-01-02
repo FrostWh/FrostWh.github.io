@@ -4,9 +4,9 @@
   
   
   <entry>
-    <title>示例文章 - 项目经验分享</title>
-    <link href="/2024/02/01/example-post-2/"/>
-    <url>/2024/02/01/example-post-2/</url>
+    <title>示例文章 - 添加评论测试</title>
+    <link href="/2026/01/02/example-post-3/"/>
+    <url>/2026/01/02/example-post-3/</url>
     
     <content type="html"><![CDATA[<h2 id="项目背景"><a href="#项目背景" class="headerlink" title="项目背景"></a>项目背景</h2><p>这里记录了一个项目的开发过程和经验总结。</p><h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><p>在项目开发过程中，遇到了一些技术难题：</p><ol><li>问题一：如何优化性能</li><li>问题二：如何处理异常情况</li><li>问题三：如何提高代码质量</li></ol><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>针对上述问题，采用了以下解决方案：</p><ul><li>使用缓存机制提升性能</li><li>完善错误处理机制</li><li>遵循代码规范</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过这个项目，学到了很多宝贵的经验。</p>]]></content>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>示例文章 - 项目经验分享</title>
-    <link href="/2024/02/01/example-post-3/"/>
-    <url>/2024/02/01/example-post-3/</url>
+    <link href="/2024/02/01/example-post-2/"/>
+    <url>/2024/02/01/example-post-2/</url>
     
     <content type="html"><![CDATA[<h2 id="项目背景"><a href="#项目背景" class="headerlink" title="项目背景"></a>项目背景</h2><p>这里记录了一个项目的开发过程和经验总结。</p><h2 id="遇到的问题"><a href="#遇到的问题" class="headerlink" title="遇到的问题"></a>遇到的问题</h2><p>在项目开发过程中，遇到了一些技术难题：</p><ol><li>问题一：如何优化性能</li><li>问题二：如何处理异常情况</li><li>问题三：如何提高代码质量</li></ol><h2 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h2><p>针对上述问题，采用了以下解决方案：</p><ul><li>使用缓存机制提升性能</li><li>完善错误处理机制</li><li>遵循代码规范</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过这个项目，学到了很多宝贵的经验。</p>]]></content>
     
